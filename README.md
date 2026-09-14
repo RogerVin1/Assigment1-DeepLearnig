@@ -1,6 +1,10 @@
 # PA1 — Segmentação de instâncias de núcleos (BBBC038 / DSB2018)
 
-Aprendizado Profundo — FGV. Segmentação de instâncias com as arquiteturas da aula, sem detectores por proposta de região.
+## **Disciplina:** Aprendizado Profundo
+
+## **Dupla:** Nicholas Costa e Roger Augusto
+
+Segmentação de instâncias com as arquiteturas da aula, sem detectores por proposta de região.
 
 Trilha escolhida (Parte 2): **fronteiras + watershed**. A U-Net prevê três classes por pixel (fundo / interior / fronteira) e as instâncias saem de um watershed com os interiores como marcadores.
 
